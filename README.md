@@ -8,8 +8,8 @@
     </a> in New York City.
     </p>
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
-    I recently received my <strong>Bachelor of Science and Arts (BSA)</strong> from UT Austin in <strong>Astronomy</strong> 
-    with a minor in <strong>Computer Science</strong>.
+    I received my <strong>Bachelor of Science and Arts (BSA)</strong> from UT Austin in <strong>Astronomy</strong> 
+    with a minor in <strong>Computer Science</strong> in 2024! Hook 'em 🤘!
     </p>
   <br>
 
